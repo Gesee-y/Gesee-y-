@@ -24,6 +24,16 @@ I started coding at 15, mainly because I loved games and wanted to create some m
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, demonstrating my understanding of algorithms and data structures.
 - And much more — feel free to explore my repositories.
 
+## Current activity
+
+Actually I'm actively learning at school:
+
+- Statistics and applied maths
+- Computer architecture
+- Laws
+- General economy
+- Algorithms
+
 ## My Hobbies
 
 When I'm not coding (which is already one of my favorite hobbies), I enjoy:
