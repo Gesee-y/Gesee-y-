@@ -26,13 +26,13 @@ I started coding at 15, mainly because I loved games and wanted to create some m
 
 - **[ReactiveECS.jl](https://github.com/Gesee-y/ReactiveECS.jl)**: The fastest and most flexible ECS in Julia, built with reactive pipelines and a database-like storage model.
 - **[Cruise.jl](https://github.com/Gesee-y/Cruise.jl)**: A game engine built entirely from scratch. I also developed the **[rendering engine](https://github.com/Gesee-y/Horizons.jl)**, **[physics engine](https://github.com/Gesee-y/Interactions.jl)**, **[audio engine](https://github.com/Gesee-y/WavesFlow.jl)**, and more.
-- A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale)** built on Godot 4, designed with clean code principles in mind, SOLID principles, and composition over inheritance.
+- A complete **[Undertale engine](https://github.com/Gesee-y/xxxxtale-engine)** built on Godot 4 with already 3 games, designed with clean code principles in mind, SOLID principles, and composition over inheritance.
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, demonstrating my understanding of algorithms and data structures.
 - And much more — feel free to explore my repositories.
 
 ## Realization
 
-- I was selcted in my country for the French mathematics olympiad, but I didn't reached the final phase.
+- I was selected in my country for the French mathematics olympiad, but I didn't reached the final phase.
 - I participated in the IMMC 2025 inthe Cameroun's team.
 
 ## Current activity
