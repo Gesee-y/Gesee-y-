@@ -30,6 +30,11 @@ I started coding at 15, mainly because I loved games and wanted to create some m
 - **[Numerous LeetCode problems](https://github.com/Gesee-y/Leetcode-challenge)** solved in Rust, demonstrating my understanding of algorithms and data structures.
 - And much more — feel free to explore my repositories.
 
+## Realization
+
+- I was selcted in my country for the French mathematics olympiad, but I didn't reached the final phase.
+- I participated in the IMMC 2025 inthe Cameroun's team.
+
 ## Current activity
 
 Actually I'm actively learning at school:
