@@ -12,9 +12,15 @@ I started coding at 15, mainly because I loved games and wanted to create some m
 - Rust
 - Nim
 - Python
+- GDScript
 - HTML
 - CSS
 - JavaScript
+
+# My tools
+
+- Godot 4
+- Blender
 
 ## My Main Achievements
 
